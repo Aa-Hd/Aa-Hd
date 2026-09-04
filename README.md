@@ -1,131 +1,74 @@
-## Hi there 👋
+# Hi, there 👋
 
 ### Automation Engineer | Python Developer | Aspiring Data Analyst & Data Engineer
 
-I’m an **Automation Engineer** focused on building reliable, maintainable solutions that automate repetitive processes, improve efficiency, and turn manual workflows into scalable systems.
+Automation Engineer focused on **Python, SQL, test automation, and process automation**, while building toward **Data Analytics, Data Engineering, and Data Science**.
 
-My current work centers around **Python, SQL, test automation, and process automation**, while I’m progressively expanding into **data analytics, data engineering, and data science**.
-
+---
 
 ## 🧑‍💻 About Me
 
-* 🔹 Automation Engineer focused on **Python-based automation**
-* 🔹 Building automation solutions with **Robot Framework**
-* 🔹 Working with **MySQL and SQL** for data storage and querying
-* 🔹 Automating Excel workflows and reporting
-* 🔹 Working with structured and unstructured documents
-* 🔹 Exploring **Data Analytics, Data Engineering & Data Science**
-* 🔹 Interested in building practical, data-driven automation systems
-* 🔹 Continuously improving my software engineering and analytical skills
+|                               |                           |
+| ----------------------------- | ------------------------- |
+| 🤖 **Automation Engineering** | 🐍 **Python Development** |
+| 🧪 **Test Automation**        | 🗄️ **MySQL / SQL**       |
+| 📊 **Data Analytics**         | ⚙️ **Data Engineering**   |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming & Database
+**Languages & Automation**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+|                    |                 |
+| ------------------ | --------------- |
+| 🐍 Python          | 🗄️ MySQL / SQL |
+| 🤖 Robot Framework | 🌐 Selenium     |
 
-### Automation & Testing
+**Python Libraries**
 
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge\&logo=robotframework\&logoColor=white)
-
-### Python Libraries                                                                          ### Data & Analytics — Currently Developing
-
-* **Pandas** — data manipulation and analysis                                                  * SQL & relational databases
-* **Xlwings** — Excel automation                                                               * Data cleaning and transformation
-* **PDFPlumber** — PDF data extraction                                                         * Exploratory Data Analysis
-* **python-docx** — Word document automation                                                   * Data visualization                                                * **OpenPyXL** — Excel file processing                                                         * ETL / ELT concepts
-* **Requests** — API and HTTP automation                                                       * Data pipelines
-* **Selenium** — browser automation                                                            * Statistical analysis
-                                                                                               * Machine Learning fundamentals
-### Data & Analytics — Currently Developing
-
-* SQL & relational databases
-* Data cleaning and transformation
-* Exploratory Data Analysis
-* Data visualization
-* ETL / ELT concepts
-* Data pipelines
-* Statistical analysis
-* Machine Learning fundamentals
+|               |                |
+| ------------- | -------------- |
+| 🐼 Pandas     | 📊 Xlwings     |
+| 📄 PDFPlumber | 📝 python-docx |
+| 📗 OpenPyXL   | 🌐 Requests    |
 
 ---
 
 ## 🚀 What I Build
 
-My projects typically focus on solving real-world business and engineering problems through automation and data.
-
-### 🤖 Automation
-
-* Web and browser automation
-* Test automation
-* Excel/report automation
-* PDF and document processing
-* Data extraction
-* Repetitive workflow automation
-
-### 📊 Data Analytics
-
-* Data cleaning and transformation
-* Business reporting
-* Exploratory data analysis
-* KPI analysis
-* Automated Excel reports
-* SQL-based analysis
-
-### ⚙️ Data Engineering
-
-* ETL pipelines
-* Data extraction and transformation
-* Database integration
-* Automated data workflows
-* Data quality and validation
-
----
-
-## 📌 Featured Projects
-
-### 🏪 Sports Shop Automation
-
-Python-based automation project demonstrating browser automation, data extraction, document processing, and automated workflows.
-
-**Technologies:** Python · Selenium · Robot Framework · MySQL · Pandas
-
-### 📊 Data Analytics Projects
-
-Coming soon — practical projects focused on SQL, Python, Pandas, data cleaning, visualization, and business analysis.
-
-### ⚙️ Data Engineering Projects
-
-Coming soon — ETL pipelines, database integration, data transformation, and automated data workflows.
+| Automation                | Data               |
+| ------------------------- | ------------------ |
+| Web & Test Automation     | Data Cleaning      |
+| Excel Automation          | Data Analysis      |
+| PDF & Document Processing | SQL Analytics      |
+| Data Extraction           | ETL Pipelines      |
+| Process Automation        | Database Workflows |
 
 ---
 
 ## 🎯 Career Direction
 
-My long-term goal is to combine **automation engineering, software development, and data** to build systems that don't just automate tasks, but also generate useful insights from data.
+**Automation Engineering → Data Analytics → Data Engineering → Data Science**
 
-**Current → Automation Engineering**
-
-↓
-
-**Next → Data Analytics & Data Engineering**
-
-↓
-
-**Future → Data Science / Machine Learning**
+Building practical solutions that combine **automation, software, databases, and data** to solve real-world problems.
 
 ---
 
-## 📫 Connect With Me
+## 📌 Featured Projects
 
-I'm interested in opportunities, projects, and collaboration around:
+| Project                         | Technologies                        |
+| ------------------------------- | ----------------------------------- |
+| 🏪 **Sports Shop Automation**   | Python · Selenium · Robot Framework |
+| 📊 **Excel Automation**         | Python · Pandas · Xlwings           |
+| 📄 **Document Data Extraction** | PDFPlumber · python-docx            |
+| 🗄️ **SQL Analytics**           | Python · MySQL                      |
+| ⚙️ **ETL Pipeline**             | Python · SQL · Pandas               |
+
+---
+
+## 📫 Connect
 
 **Python · Automation · SQL · Data Analytics · Data Engineering · Data Science**
 
----
-
-⭐ If you find one of my projects useful, feel free to explore the repository and leave a star.
-
+[LinkedIn](www.linkedin.com/in/amna-h-825934279) · [GitHub](https://github.com/Aa-Hd)
