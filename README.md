@@ -1,5 +1,3 @@
-# Hi, there 👋
-
 ### Automation Engineer | Python Developer | Aspiring Data Analyst & Data Engineer
 
 Automation Engineer focused on **Python, SQL, test automation, and process automation**, while building toward **Data Analytics, Data Engineering, and Data Science**.
@@ -15,6 +13,10 @@ Automation Engineer focused on **Python, SQL, test automation, and process autom
 | 📊 **Data Analytics**         | ⚙️ **Data Engineering**   |
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 🛠️ Tech Stack
 
@@ -33,7 +35,8 @@ Automation Engineer focused on **Python, SQL, test automation, and process autom
 | 📄 PDFPlumber | 📝 python-docx |
 | 📗 OpenPyXL   | 🌐 Requests    |
 
----
+</td>
+<td width="50%" valign="top">
 
 ## 🚀 What I Build
 
@@ -44,6 +47,10 @@ Automation Engineer focused on **Python, SQL, test automation, and process autom
 | PDF & Document Processing | SQL Analytics      |
 | Data Extraction           | ETL Pipelines      |
 | Process Automation        | Database Workflows |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,7 +75,5 @@ Building practical solutions that combine **automation, software, databases, and
 ---
 
 ## 📫 Connect
-
-**Python · Automation · SQL · Data Analytics · Data Engineering · Data Science**
 
 [LinkedIn](www.linkedin.com/in/amna-h-825934279) · [GitHub](https://github.com/Aa-Hd)
