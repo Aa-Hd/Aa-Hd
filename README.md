@@ -1,5 +1,4 @@
 ## Hi there 👋
-<!--
 
 ### Automation Engineer | Python Developer | Aspiring Data Analyst & Data Engineer
 
@@ -7,7 +6,6 @@ I’m an **Automation Engineer** focused on building reliable, maintainable solu
 
 My current work centers around **Python, SQL, test automation, and process automation**, while I’m progressively expanding into **data analytics, data engineering, and data science**.
 
----
 
 ## 🧑‍💻 About Me
 
