@@ -76,4 +76,4 @@ Building practical solutions that combine **automation, software, databases, and
 
 ## 📫 Connect
 
-[LinkedIn](www.linkedin.com/in/amna-h-825934279) · [GitHub](https://github.com/Aa-Hd)
+[LinkedIn](https://www.linkedin.com/in/amna-h-825934279) · [GitHub](https://github.com/Aa-Hd)
