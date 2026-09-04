@@ -31,16 +31,15 @@ My current work centers around **Python, SQL, test automation, and process autom
 
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge\&logo=robotframework\&logoColor=white)
 
-### Python Libraries
+### Python Libraries                                                                          ### Data & Analytics — Currently Developing
 
-* **Pandas** — data manipulation and analysis
-* **Xlwings** — Excel automation
-* **PDFPlumber** — PDF data extraction
-* **python-docx** — Word document automation
-* **OpenPyXL** — Excel file processing
-* **Requests** — API and HTTP automation
-* **Selenium** — browser automation
-
+* **Pandas** — data manipulation and analysis                                                  * SQL & relational databases
+* **Xlwings** — Excel automation                                                               * Data cleaning and transformation
+* **PDFPlumber** — PDF data extraction                                                         * Exploratory Data Analysis
+* **python-docx** — Word document automation                                                   * Data visualization                                                * **OpenPyXL** — Excel file processing                                                         * ETL / ELT concepts
+* **Requests** — API and HTTP automation                                                       * Data pipelines
+* **Selenium** — browser automation                                                            * Statistical analysis
+                                                                                               * Machine Learning fundamentals
 ### Data & Analytics — Currently Developing
 
 * SQL & relational databases
